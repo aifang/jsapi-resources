@@ -40,4 +40,3 @@ define(["dojo/dnd/Moveable", "dojo/dom", "dojo/on"],
     function (Moveable, dom, on) {
         var dnd = new Moveable(dom.byId("move"));
     });
-
